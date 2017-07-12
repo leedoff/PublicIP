@@ -51,6 +51,6 @@ Contents
 
 6. Contact
 
-	[sorted by fastest probable reply time, descending]
-	Email: leed_off@outlook.com
-	Twitter: @leed_off
+	Email: Leed_off@outlook.com
+	Twitter: @Leed_off
+	Facebook: @Leed.Official
