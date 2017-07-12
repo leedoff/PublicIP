@@ -1,15 +1,6 @@
-
-	Files included in "PublicIP.zip":
-
-	/PublicIP.zip
-		/PublicIP_x64
-			/PublicIP_x64.exe
-			/ReadMe_x64.txt
-		/PublicIP_x86
-			/PublicIP_x86.exe
-			/ReadMe_x86.txt
-
 ReadMe - Created 12th July 2017 by Leed a.k.a. Lee'd / LeedOff
+
+IMPORTANT: This build was specifically made for 64 bit Windows / x64 CPUs
 
 Contents
 	1. Description
@@ -32,19 +23,15 @@ Contents
 	
 2. How to use
 	
-	After choosing the correct version (x86 or x64), you should 
-	rename the file to "PublicIP.exe" (because that is how it was 
-	originally intended to be called).
 	PublicIP is a Command-line based program. It needs to be run 
 	via the windows-command-line (cmd.exe). To run the program 
-	from cmd.exe, simply type the name of the file ("PublicIP" / 
-	"PublicIP_x64" / "PublicIP_x86").
+	from cmd.exe, simply type the name of the file (PublicIP).
 	Upper- and lower-case generally do not matter.
 	
 3. How it works
 	
 	PublicIP simply fetches a string from canihazip.com and writes 
-	it to the console. As simple as it gets.
+	it to the console.
 	
 4. License information
 
@@ -59,13 +46,13 @@ Contents
 	else, please tell me (see "6. Contact") and stop using it,
 	as you may have run into a damaged / infected version.
 	
-	If you download the program PublicIP_x86.exe / PublicIP_x64.exe from anywhere else than
+	If you download the program PublicIP_x64.exe from anywhere else than
 	github.com/leedoff, it is your own responsibility to make sure
 	that it is safe. If you're not sure about where you got
 	the .exe from, delete it and download it from the repository.
 
 6. Contact
 
-	Email: Leed_off@outlook.com
-	Twitter: @Leed_off
-	Facebook: @Leed.Official
+	[sorted by fastest probable reply time, descending]
+	Email: leed_off@outlook.com
+	Twitter: @leed_off
